@@ -1,4 +1,4 @@
-## springcore_basic
+# springcore_basic
 
 스프링 핵심 원리 - 기본편 - 섹션 0 ~ 10
 
